@@ -1,0 +1,6 @@
+# Salida de compilación NetBeans/Ant
+/build/
+/dist/
+
+# Configuración local del IDE (rutas absolutas del equipo)
+/nbproject/private/
